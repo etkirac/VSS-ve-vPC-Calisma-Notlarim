@@ -132,7 +132,6 @@ vPC: Nexus switch family
 
 _Stacking vs VSS_
 - Stackingde özel bir kablo kullanılırken VSS için 10G interfaceleri kullanılır.
-- Stacking 8-9 memberı destekler, VSS max 2 member içerir.
 - İkisinde de tek control plane vardır.
 - Access layer switchlerde stacking yapılırken core veya aggregation layer switchlerde VSS yapılır.
 - Stackingde detaylı bir konfigürasyon yokken VSS için vardır.
